@@ -1,3 +1,5 @@
+__NOTE:__ This project is borrowed and enhanced from elkozman work:
+  https://github.com/elkozmon/canvas-node-docker
 # Canvas Node in Docker
 Dockerfile for Parity's Canvas Node, a Substrate chain for smart contracts.
 
