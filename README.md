@@ -30,3 +30,8 @@ For the first time you must build docker image from Dockerfile:
 From now on, you can run canvas node from prebuilt image by running:
 
 `docker-compose up -d --no-build`
+
+## Test your Node
+
+Open the following URL from your browser and select __Local Node__:
+https://paritytech.github.io/canvas-ui
