@@ -1,0 +1,9 @@
+version: "3.6"
+services:
+  canvas:
+    build: .
+    image: "canvas"
+    ports:
+      - "9944:9944"
+    restart: "unless-stopped"
+    container_name: "canvas-node"
